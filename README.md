@@ -2,6 +2,8 @@
 A full-stack project built for a rapid hackathon challenge.  
 It consists of a **frontend client** and **backend server**, designed to demonstrate quick development, clean architecture, and efficient collaboration.
 ---
+## Demo Video
+- The demo video is attached for reference
 ## 🚀 Features
 - Full-stack architecture with separate **client** and **server**
 - REST API backend for data handling
